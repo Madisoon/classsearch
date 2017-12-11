@@ -1,6 +1,6 @@
 # classsearch
 
-> A Vue.js project
+> A Vue.js project(大学选课系统前端源码)
 
 ## Build Setup
 
